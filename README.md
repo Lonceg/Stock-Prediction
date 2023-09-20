@@ -18,7 +18,7 @@ for model prediction due to the need of a window to calculate these metrics
 
 This code uses NVIDIA libraries for accelerated training with the use of GPU. GPU used: RTX 2060.
 
-Comparision of GPU vs CPU
+Comparision of GPU vs CPU:
 ![image](https://github.com/Lonceg/Stock-Prediction/assets/92753179/b605b20f-19c5-4335-957b-06f0cb386877)
 
 Python version: 3.9.13
