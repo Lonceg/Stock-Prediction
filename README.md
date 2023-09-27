@@ -59,7 +59,7 @@ not be used in proffesional forecasting due to the fact that stock prices can gr
 Training also depended on the quality of the input data. If training set exhibited constant growth, there would be bias for that in the test set, as obviously this is what
 model has been trained on.
 
-Overall, even though below predictions look pretty, apparently they are less valuable than predictions based on returns.
+Overall, even though below predictions look pretty (not always), apparently they are less valuable than predictions based on returns.
 
 Price prediction LPP 7 days input and 1 day output:
 
@@ -91,11 +91,11 @@ Train Values:
 
 ![Actual vs Predicted Values Train](https://github.com/Lonceg/Stock-Prediction/assets/92753179/c7209daf-f357-4960-95c3-9bcdcdedfce3)
 
-Prediction 30 day prediction as of 23/09/2023
+Price prediction LPP 30 days as of 23/09/2023
 
 ![Plot of the stock prediction](https://github.com/Lonceg/Stock-Prediction/assets/92753179/11bd7563-af97-4ebb-92cd-1bd3065b9b3d)
 
-Price prediction LPP 30 days input and 30 day output:
+Price prediction PKN 30 days input and 30 day output:
 
 Test Values:
 
@@ -105,7 +105,7 @@ Train Values:
 
 ![Actual vs Predicted Values Train](https://github.com/Lonceg/Stock-Prediction/assets/92753179/e59b9272-29d9-4547-8e6b-2bb506fdca4b)
 
-Prediction 30 day prediction as of 25/09/2023
+Price prediction PKN 30 days as of 25/09/2023
 
 ![Plot of the stock prediction](https://github.com/Lonceg/Stock-Prediction/assets/92753179/6f4ce330-27c5-4b97-8823-2cfbb5d1d43e)
 
